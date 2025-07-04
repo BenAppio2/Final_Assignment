@@ -14,10 +14,15 @@ I used the following packages in R:
 2. 'dplyr'
 3. 'ggplot2'
 
-These packages should be pre-installed in the R-Colab workspace. If they are not use:
-install.packages("readr")
-install.packages("dplyr")
-install.packages("ggplot2")
+These packages should be pre-installed in the R-Colab workspace. 
+
+If they are not use:
+
+- install.packages("readr")
+
+- install.packages("dplyr")
+
+- install.packages("ggplot2")
 
 ## Summary of Results
 With the rich dataset provided by the TidyTuesday repository, I created several data visualizations to explore birth month trends among NHL players.
